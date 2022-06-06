@@ -1,0 +1,5 @@
+com\prashanth\dao\MovieDao.class
+com\prashanth\dto\Movie.class
+com\prashanth\service\MovieServiceImpl.class
+com\prashanth\service\MovieService.class
+com\prashanth\dao\MovieDaoImpl.class
